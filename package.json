@@ -1,6 +1,6 @@
 {
   "name": "ruhroh",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "helper lib to create the Error classes for restify-based API services",
   "author": "Trent Mick <trentm@gmail.com> (http://trentm.com)",
   "main": "./lib/ruhroh.js",
