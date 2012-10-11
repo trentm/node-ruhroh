@@ -1,0 +1,20 @@
+{
+  "name": "ruhroh",
+  "version": "1.0.0",
+  "description": "helper lib to create the Error classes for restify-based API services",
+  "author": "Trent Mick <trentm@gmail.com> (http://trentm.com)",
+  "main": "./lib/ruhroh.js",
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/trentm/node-ruhroh.git"
+  },
+  "engines": ["node >=0.6.0"],
+  "keywords": ["error", "exception", "restify", "verror"],
+
+  "devDependencies": {
+  },
+
+  "scripts": {
+  }
+}
