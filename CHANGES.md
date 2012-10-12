@@ -1,6 +1,6 @@
 # node-ruhroh Changelog
 
-## 1.0.1 (not yet released)
+## 1.0.1
 
 - Fix `ruhroh.getErrorClasses` to actually return the build classes. :)
 
